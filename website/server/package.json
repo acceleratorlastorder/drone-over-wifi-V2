@@ -1,0 +1,24 @@
+{
+  "name": "drone-over-wifi-v2_server",
+  "version": "0.0.1",
+  "description": "Server to remote a drone (which must be the same local network) from a client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acceleratorlastorder/drone-over-wifi-V2.git"
+  },
+  "keywords": [
+    "drone",
+    "wifi",
+    "remote"
+  ],
+  "author": "Accelerator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acceleratorlastorder/drone-over-wifi-V2/issues"
+  },
+  "homepage": "https://github.com/acceleratorlastorder/drone-over-wifi-V2#readme"
+}
